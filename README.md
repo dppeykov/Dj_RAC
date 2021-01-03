@@ -12,3 +12,5 @@ show tables
 select * from firstapp_employee
 insert into firstapp_employee values(2,'Bob',20001)
 ~~~~
+
+Done till Chapter 5: Function Based Views and Serializers
